@@ -1,0 +1,18 @@
+{
+  "name": "tik_tak_toe",
+  "version": "1.0.0",
+  "description": "A coding example that contains a console based game of Tik Tak Toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tik",
+    "tak",
+    "toe",
+    "coding",
+    "example"
+  ],
+  "author": "Daniel Olivier (KaoSDlanor@gmail.com)",
+  "license": "ISC"
+}
